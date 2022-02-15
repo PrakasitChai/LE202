@@ -5,7 +5,7 @@
 - ความเร็ว 96Mhz
 - หน่วยความจำ 32KB RAM, 512KB FLASH
 - พอร์ท USB
-2. ## BeagleBone Black Rev C SBC
+ ## BeagleBone Black Rev C SBC
 - ราคา 2100.10
 - ลิงค์ https://th.rs-online.com/web/p/microcontroller-development-tools/1252411?cm_mmc=TH-PPC-DS3A-_-google-_-3_TH_EN_Raspberry+Pi+%26+Arduino+%26+Development+Tools_Microcontroller+Development+Tools_Phrase-_-Beagleboard.org+-+1252411+-+BeagleBone+Black-_-beaglebone+black&matchtype=p&kwd-300888210958&gclid=Cj0KCQiAu62QBhC7ARIsALXijXThJ0dhpFy4JZkf01MUs9IwcppTquvCH-4etR3idSiMi7-fF_8mPgoaAgF8EALw_wcB&gclsrc=aw.ds
 - ความเร็ว AM3358BZCZ100 1GHz ARM Cortex-A8
